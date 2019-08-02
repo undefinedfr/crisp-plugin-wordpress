@@ -1,0 +1,6 @@
+{
+  "name":"crisp-im/crisp-plugin-wordpress",
+  "version": "0.21",
+  "type": "wordpress-plugin",
+  "description": "Crisp is a Livechat plugin",
+}
